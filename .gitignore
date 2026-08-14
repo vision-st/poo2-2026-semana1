@@ -1,0 +1,41 @@
+# Compilados Java
+*.class
+out/
+bin/
+build/
+target/
+
+# Empaquetados
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+
+# Gradle / Maven
+.gradle/
+gradle-app.setting
+.mvn/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+hs_err_pid*
+
+# Claude Code local
+.claude/
